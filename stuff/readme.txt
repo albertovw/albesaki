@@ -6,3 +6,4 @@ https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
 https://codepen.io/SitePoint/pen/ZbGwqe carousel full screen
 
 http://pgwjs.com/pgwslider/
+http://sachinchoolur.github.io/lightGallery/demos/
