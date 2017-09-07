@@ -7,3 +7,5 @@ https://codepen.io/SitePoint/pen/ZbGwqe carousel full screen
 
 http://pgwjs.com/pgwslider/
 http://sachinchoolur.github.io/lightGallery/demos/
+
+https://www.youtube.com/watch?v=CgNYjx4izqk firma photoshop
