@@ -9,3 +9,5 @@ http://pgwjs.com/pgwslider/
 http://sachinchoolur.github.io/lightGallery/demos/
 
 https://www.youtube.com/watch?v=CgNYjx4izqk firma photoshop
+
+https://blackrockdigital.github.io/startbootstrap-grayscale/ barra
